@@ -14,56 +14,35 @@ import java.util.*;
 // import java.net.URL;
 // import java.util.List;
 
-
 /**
  * Hello world!
  *
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
+public class App {
+    public static void main(String[] args) {
         SyndFeedInput sfi = new SyndFeedInput();
-         String url = "https://www.nasa.gov/rss/dyn/breaking_news.rss";
-         try {
-             SyndFeed feed = sfi.build(new XmlReader(new URL(url)));
-           
-            System.out.println(feed.getTitle());
-           
+        String url = "https://www.nasa.gov/rss/dyn/breaking_news.rss";
+        
+        try {
+            SyndFeed feed = sfi.build(new XmlReader(new URL(url)));
 
-            List entries = feed.getEntries();
+            System.out.println(feed.getTitle());
+
+            List<Object> entries = feed.getEntries();
             System.out.println(entries.size());
 
-            for( Object obj : entries )
-            {
+            for (Object obj : entries) {
                 SyndEntry syndEntry = (SyndEntry) obj;
+                System.out.println("\nNEW ENTRY:");
                 System.out.println(syndEntry.getTitle());
+                System.out.println(syndEntry.getLink());
+                System.out.println();
             }
-        
-         } catch (Exception e) {
+
+        } catch (Exception e) {
             // TODO: handle exception
-         }
+        }
+
         
-      
-
-
-       
-
-        //System.out.println( "Hello World!" );
-
-//         try {
-//                 SyndFeedInput sfi = new SyndFeedInput();
-//                 String urls[] = {"...", "..." };
-
-//                 for(String url:urls) {
-//                     SyndFeed feed = sfi.build(new XmlReader(new URL(url)));
-//                     List entries = feed.getEntries();
-//                     System.out.println(feed.getTitle());
-//                     System.out.println(entries.size());
-//                 }
-// } catch (Exception ex) {
-// throw new RuntimeException(ex);
-// }
-// }
     }
 }
