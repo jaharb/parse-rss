@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>NASA Breaking News</title>
+        <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+        <link>http://www.nasa.gov/</link>
+        <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+        <language>en-us</language>
+        <managingEditor>jim.wilson@nasa.gov</managingEditor>
+        <webMaster>brian.dunbar@nasa.gov</webMaster>
+        <docs>http://blogs.harvard.edu/tech/rss</docs>
+        <item>
+            <title>NASA Awards $14 Million to Universities for Supportive STEM Efforts</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-awards-14-million-to-universities-for-supportive-stem-efforts</link>
+            <description>NASA is investing more than $14 million in 19 U.S. colleges and
+                universities to grow their STEM capacity to participate in critical spaceflight
+                research and prepare a new generation of diverse students for careers in the
+                nation&#039;s science, technology, engineering, and math workforce.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/52785010548_9b628b9ec6_o.jpg?itok=OpN7xOlM"
+                length="25610912" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-awards-14-million-to-universities-for-supportive-stem-efforts</guid>
+            <pubDate>Wed, 26 Jul 2023 15:23 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488236</dc:identifier>
+        </item>
+        <item>
+            <title>NASA, DARPA Experts to Discuss Nuclear Rocket Program Developments</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments</link>
+            <description>Experts from NASA and the Defense Advanced Research Projects Agency (DARPA)
+                will hold a media teleconference at 1 p.m. EDT Wednesday, July 26, to discuss the
+                latest developments in the Demonstration Rocket for Agile Cislunar Operations
+                (DRACO) program.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/draco-4-darpa-nasa-ussf-caption_2.jpg?itok=B7y5CrqH"
+                length="2676763" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-darpa-experts-to-discuss-nuclear-rocket-program-developments</guid>
+            <pubDate>Wed, 26 Jul 2023 08:11 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488217</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Sets Coverage for Cargo Launch to International Space Station</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-sets-coverage-for-cargo-launch-to-international-space-station</link>
+            <description>NASA and commercial cargo provider Northrop Grumman are targeting 8:31 p.m.
+                EDT, Tuesday, Aug. 1, for the launch of the company’s 19th resupply mission to the
+                International Space Station from the agency’s Wallops Flight Facility in Virginia.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/49540219286_78d2defc91_o.jpg?itok=6ceAks4e"
+                length="4060083" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-sets-coverage-for-cargo-launch-to-international-space-station</guid>
+            <pubDate>Tue, 25 Jul 2023 12:08 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488201</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Partners with American Companies on Key Moon, Exploration Tech</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech</link>
+            <description>NASA has selected 11 U.S. companies to develop technologies that could
+                support long-term exploration on the Moon and in space for the benefit of all.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/9_loftid_rv_on_ship_deck_beauty_shot_0.png?itok=E9L3pCEE"
+                length="9189748" type="image/png" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-partners-with-american-companies-on-key-moon-exploration-tech</guid>
+            <pubDate>Tue, 25 Jul 2023 10:23 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488203</dc:identifier>
+        </item>
+        <item>
+            <title>El administrador de NASA viajará a Sudamérica, hablará de cooperación</title>
+            <link>
+                http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n</link>
+            <description>Como parte de una serie de reuniones con destacados funcionarios
+                gubernamentales, el administrador de la NASA, Bill Nelson, viajará a Brasil,
+                Argentina y Colombia a partir del lunes 24 de julio.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/53055306699_f2cc87d539_o.jpg?itok=J4K9KDF0"
+                length="25151126" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/el-administrador-de-nasa-viajar-a-sudam-rica-hablar-de-cooperaci-n</guid>
+            <pubDate>Fri, 21 Jul 2023 10:48 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488156</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Administrator to Head to South America; Discuss Space Cooperation</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation</link>
+            <description>As part of a series of meetings with key government officials, NASA
+                Administrator Bill Nelson will travel to Brazil, Argentina, and Colombia beginning
+                Monday, July 24.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/53055306699_f2cc87d539_o.jpg?itok=J4K9KDF0"
+                length="25151126" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-administrator-to-head-to-south-america-discuss-space-cooperation</guid>
+            <pubDate>Fri, 21 Jul 2023 10:42 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488153</dc:identifier>
+        </item>
+        <item>
+            <title>Louisiana Students to Hear from NASA Astronauts Aboard Space Station</title>
+            <link>
+                http://www.nasa.gov/press-release/louisiana-students-to-hear-from-nasa-astronauts-aboard-space-station</link>
+            <description>As part of the state’s first Earth-to-space call, students from Louisiana
+                will have an opportunity soon to hear from NASA astronauts aboard the International
+                Space Station.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/52970087660_cab20243da_o.jpg?itok=UJH9DOFS"
+                length="2178472" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/louisiana-students-to-hear-from-nasa-astronauts-aboard-space-station</guid>
+            <pubDate>Fri, 21 Jul 2023 09:04 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488148</dc:identifier>
+        </item>
+        <item>
+            <title>NASA Awards Integrated Mission Operations Contract III</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii</link>
+            <description>NASA has selected KBR Wyle Services, LLC, of Fulton, Maryland, to provide
+                mission and flight crew operations support for the International Space Station and
+                future human space exploration.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa_meatball_1_2.jpeg?itok=0sWmrdS3"
+                length="85798" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-awards-integrated-mission-operations-contract-iii</guid>
+            <pubDate>Thu, 20 Jul 2023 15:05 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488123</dc:identifier>
+        </item>
+        <item>
+            <title>NASA, White House Advance Historically Black Scholar Recognition</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition</link>
+            <description>NASA and the Department of Education, in support of STEM and diversity,
+                equity, inclusion, and accessibility initiatives, are hosting a competition to
+                engage students at HBCUs (Historically Black Colleges and Universities), ultimately
+                bringing diverse talent into the future science, technology, engineering, and
+                mathematics pipeline.</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/hbcu-speakers-large_1.jpg?itok=mVNuphnv"
+                length="415410" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-white-house-advance-historically-black-scholar-recognition</guid>
+            <pubDate>Thu, 20 Jul 2023 15:04 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488124</dc:identifier>
+        </item>
+        <item>
+            <title>NASA discutirá su labor en materia climática tras temperaturas record</title>
+            <link>
+                http://www.nasa.gov/press-release/nasa-discutir-su-labor-en-materia-clim-tica-tras-temperaturas-record</link>
+            <description>La dirección de la NASA, incluidos expertos en clima entre los que figura
+                un hispanohablante, estará disponible a las 4 p.m. EDT del jueves 20 de julio en la
+                sede de la agencia en Washington para hacer balance de los recientes fenómenos
+                meteorológicos extremos y discutir cómo la investigación y los datos de la NASA
+                están posibilitando soluciones cl</description>
+            <enclosure
+                url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/climate_1_0.jpg?itok=he7Fl9Zd"
+                length="5260492" type="image/jpeg" />
+            <guid isPermaLink="false">
+                http://www.nasa.gov/press-release/nasa-discutir-su-labor-en-materia-clim-tica-tras-temperaturas-record</guid>
+            <pubDate>Tue, 18 Jul 2023 13:08 EDT</pubDate>
+            <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+            <dc:identifier>488091</dc:identifier>
+        </item>
+    </channel>
+</rss>
